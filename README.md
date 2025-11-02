@@ -1,2 +1,2 @@
 # Week-1
-Object Detection
+Automotive - Object Detection
